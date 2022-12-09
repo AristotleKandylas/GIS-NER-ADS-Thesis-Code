@@ -1,6 +1,20 @@
-# GIS-NER-ADS-Thesis-Code
+<h1 align="center"> GIS-NER-ADS-Thesis-Code </h1>
 
----
+<div align="center">
+    <a href="/LOGO">
+        <img src="https://onekeyresources.milwaukeetool.com/hs-fs/hubfs/GIS-Blog-Header.jpg?width=2309&name=GIS-Blog-Header.jpg" alt="Devicon Logo" height="300" />
+    </a>
+</div>
+
+<p align="center">
+    <a href="/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+    </a>
+    <a href="donloads">
+        <img alt="GitHub" src="https://img.shields.io/github/downloads/aristotlekandylas/GIS-NER-ADS-Thesis-Code/total.svg">
+    </a>
+</p>
+
 
 ## :open_book: About
 This is the official repository of my master thesis in Applied Data Science at Utrecht University.
@@ -25,7 +39,7 @@ Specifically:
 ---
 ## :clipboard: **Dataset**
 
-As the **dataset** used in this research, was provided by the <a href="https://github.com/quangis" target = "_blank"> QuAnGIS research group</a>, and no consent was obtained to share it publicly, I am unable to share the dataset in this repository.
+As the **dataset** used in this research, was provided by the <a href="https://github.com/quangis" target = "_blank"> QuAnGIS research group</a>, and no consent was obtained to share it publicly, I am unable to share the dataset with the geoanalytical questions, in this repository.
 
 ---
 
