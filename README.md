@@ -30,5 +30,12 @@ As the **dataset** used in this research, was provided by the <a href="https://g
 
 ## Contact and contribution
 
-For questions about this repository, please contact Utrecht University's <a href = "https://www.uu.nl/en/research/research-data-management/contact-us" target = "_blank">Research Data Management Support</a>, or open an Issue or Pull request in this repository.
+For questions about this repository, please contact the author <a href = "https://github.com/AristotleKandylas" target = "_blank">Aristoteles Kandylas</a>, or open an Issue or Pull request in this repository.
 
+---
+
+## License
+
+This repository is licensed under a GNU General Public License v3.0. You can view the <a href= "https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/LICENSE" target = "_blank"> LICENSE here</a>.
+
+---
