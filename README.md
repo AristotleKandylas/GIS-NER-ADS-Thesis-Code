@@ -10,7 +10,7 @@
     <a href="/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/badge/License-GPLv3-blue.svg">
     </a>
-    <a href="donloads">
+    <a href="Donloads">
         <img alt="GitHub" src="https://img.shields.io/github/downloads/aristotlekandylas/GIS-NER-ADS-Thesis-Code/total.svg">
     </a>
 </p>
