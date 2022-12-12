@@ -16,7 +16,7 @@ This is the official repository of my master thesis in Applied Data Science at U
 
 My research project presents two deep learning-based NER systems to extract geographic phenomena from geo-analytical questions and classify them into core concepts of spatial information that conceptually model and distinguish spatial information. The NER systems are trained by BERT and Bi-LSTM models on 278 geo-analytical questions and tested on 31 validation questions, from a corpus that contains 309 questions in total. The evaluation and comparison results showed that the BERT model had higher accuracy, precision, recall and F1-score on recognizing core concepts in geo-analytical questions, compared to Bi-LSTM.
 
-The project's code is available for everyone interesting but also for those who want to develop NLP solution in the Geosciences scientific domain.
+The project's code is available for everyone interesting but also for those who want to develop NLP solutions in the Geosciences scientific domain.
 
 ## :microscope: Demostration
 For example, in a geo-analytical question answering system, the core concepts of a geo-analytical question can be recognized and annotated in the following way:
