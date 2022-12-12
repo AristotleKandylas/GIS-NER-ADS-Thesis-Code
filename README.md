@@ -44,11 +44,11 @@ This repository contains the documentation and  the code written about the maste
 
 Specifically:
 
-- **The preprocessing code** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/PRE_PROCESSING" target = "_blank"> PRE_PROCESSING folder</a> of this repository
+- **The preprocessing code** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/PRE_PROCESSING" target = "_blank"> PRE_PROCESSING folder</a> of this repository. This code reads the neccessary files (i.e. geoanalytical question corpus and core concepts dictionary) and creates the unified tags (e.g. object quality --> OBJQ) for the core concept recognition from the two Deep Learning models.
 
-- **The tokenization code** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/TOKENIZATION" target = "_blank"> TOKENIZATION folder</a> of this repository
+- **The tokenization code** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/TOKENIZATION" target = "_blank"> TOKENIZATION folder</a> of this repository. Contains all the code for the tokenization and the POS (Part Of Speech) tags creation of each geoanalytical question. In addition with this code, each token from each question is matched automatically to the corresponding unified tag which was generated in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/PRE_PROCESSING" target = "_blank"> **preprocessing code** </a>. The final output of this code is the generation of a .csv file which contains each geoanalytical question with the corresponding tokens, pos and and tags. 
 
-- **The two developed Deep Learning Models'** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/DEEP_LEARNING_MODELS" target = "_blank"> DEEP_LEARNING_MODELS folder</a> of this repository
+- **The two developed Deep Learning Models'** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/DEEP_LEARNING_MODELS" target = "_blank"> DEEP_LEARNING_MODELS folder</a> of this repository. Contains all the developed code for the two Deep Learning models, including evalution metrics and visualizations.
 
 
 ## :clipboard: **Dataset**
