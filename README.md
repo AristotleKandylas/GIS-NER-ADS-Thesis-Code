@@ -42,7 +42,7 @@ As this research has proved, the BERT outperfoms the Bi-LSTM model in core conce
 This repository contains the documentation and  the code written about the master thesis.
 
 
-Specifically:
+<ins>Specifically:<ins>
 
 - **The preprocessing code** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/PRE_PROCESSING" target = "_blank"> PRE_PROCESSING folder</a> of this repository. This code reads the neccessary files (i.e. geoanalytical question corpus and core concepts dictionary) and creates the unified tags (e.g. object quality --> OBJQ) for the core concept recognition from the two Deep Learning models.
 
