@@ -50,21 +50,21 @@ Specifically:
 
 - **The two developed Deep Learning Models'** can be found in the <a href="https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/DEEP_LEARNING_MODELS" target = "_blank"> DEEP_LEARNING_MODELS folder</a> of this repository
 
----
+
 ## :clipboard: **Dataset**
 
 As the **dataset** used in this research, was provided by the <a href="https://github.com/quangis" target = "_blank"> QuAnGIS research group</a>, and no consent was obtained to share it publicly, I am unable to share the dataset with the geoanalytical questions, in this repository.
 
----
+
 
 ## :envelope_with_arrow: Contact and contribution
 
 For questions about this repository, please contact the author <a href = "https://github.com/AristotleKandylas" target = "_blank">Aristoteles Kandylas</a>, or open an Issue or Pull request in this repository.
 
----
+
 
 ## :balance_scale: License
 
 This repository is licensed under a GNU General Public License v3.0. You can view the <a href= "https://github.com/AristotleKandylas/GIS-NER-ADS-Thesis-Code/blob/main/LICENSE" target = "_blank"> LICENSE here</a>.
 
----
+
