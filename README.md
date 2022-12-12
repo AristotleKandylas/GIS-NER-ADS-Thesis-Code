@@ -31,7 +31,7 @@ The answer to this geo-analytical question can be visualized in a GIS software v
 </p>
 <h5 align="center"> Shortest network-based paths to a police station for specific PC4 areas </h5>
 
-As this research has proved, the BERT outperfoms the Bi-LSTM model. In order to evaluate the BERT model's performance we selected three random geoanalytical questions from an another geo-analytical question corpus proposed by Xu, et al. (2022). As shown in the first figure (left side), fire stations and school are correctly recognized as objects. Also in the second figure (middle), the model correctly captures the vegetation areas as field nominal. Finally, as it is presented in the third figure, the model recognizes accurately in the third question, the number as content amount count and the traffic accidents as events.
+As this research has proved, the BERT outperfoms the Bi-LSTM model in core concept recognition tasks. In order to evaluate the BERT model's performance we selected three random geoanalytical questions from an another geo-analytical question corpus proposed by Xu, et al. (2022). As shown in the first figure (left side), fire stations and school are correctly recognized as objects. Also in the second figure (middle), the model correctly captures the vegetation areas as field nominal. Finally, as it is presented in the third figure, the model recognizes accurately in the third question, the number as content amount count and the traffic accidents as events.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/107751800/206800620-cdbcbfbd-7538-480b-8f5b-a4c04fb3e4e0.png" alt="example1" height="300" />
