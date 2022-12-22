@@ -11,6 +11,11 @@
     </a>
 </div>
 
+## Table
+* [About the Project](#About-the-Project)
+* [License](#License)
+
+
 ## :memo: About the Project
 This is the official repository of my master thesis in Applied Data Science at Utrecht University.
 
